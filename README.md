@@ -294,8 +294,6 @@ footer {
 <footer>
     <h3>DEPORTIVO TEPALCATES</h3>
     <p>Deporte • Salud • Comunidad</p>
-    <p>¡Tu esfuerzo también es parte del equipo!</p>
-    <p>Proyecto escolar - 2026</p>
 </footer>
 
 </body>
